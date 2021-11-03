@@ -1,0 +1,40 @@
+.back {
+width: 800px;
+height: 800px;
+border: 1px solid black;
+margin: 200px auto;
+position: relative;
+background-image: url("gr.png");
+
+}
+.image1 {
+width: auto;
+height: 300px;
+background-image: "https://sun9-69.userapi.com/impg/kJU0XvEzLeipf7qqnnfFKDsCRQpo5aBchutLGA/O1mG3aFhjGo.jpg?size=810x1080&quality=96&sign=d1ec01c290193482cccf559b002bfa8c&type=album";
+position: absolute;
+left: 10px;
+top: auto;
+}
+
+.image2 {
+width: auto;
+height: 300px;
+background-image: url("https://sun9-69.userapi.com/impg/kJU0XvEzLeipf7qqnnfFKDsCRQpo5aBchutLGA/O1mG3aFhjGo.jpg?size=810x1080&quality=96&sign=d1ec01c290193482cccf559b002bfa8c&type=album");
+position: absolute;
+left: 576px;
+top: auto;
+}
+
+.image3 {
+width: auto;
+height: 300px;
+background-image: "https://sun9-69.userapi.com/impg/kJU0XvEzLeipf7qqnnfFKDsCRQpo5aBchutLGA/O1mG3aFhjGo.jpg?size=810x1080&quality=96&sign=d1ec01c290193482cccf559b002bfa8c&type=album";
+position: absolute;
+left: 276px;
+top: auto;
+}
+
+p {
+text-align: left;
+color: black;
+}

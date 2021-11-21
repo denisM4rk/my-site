@@ -184,6 +184,16 @@ body {
   background-color: #712073;
   color: #ffffff;
 }
+.button-3 {
+  padding: 6px 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #712073;
+  color: #ffffff;
+}
 
 .page-footer {
   padding: 40px 0;

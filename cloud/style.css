@@ -1,0 +1,84 @@
+.main .container {
+	margin: 80px auto;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 960px;
+	padding: 0 10px;
+}
+head {
+	display:  none;
+}
+.header{
+	background: url(bg.jpg);
+	background-size: cover;
+	height: 700px;
+	text-align: center;
+}
+.nav {
+	background:  #000;
+	height:  80px;
+	width: 100%;
+}
+div {
+	display: block;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight:  100;
+}
+
+.join {
+	background:  url(joinbg.jpg) center center;
+	background-size:  cover;
+	height:  600px;
+}
+
+.main img {
+	float: left;
+	margin:  50px 80px 50px 0;
+}
+img {
+	height: 128px;
+	aspect-ratio: auto 196 / 128;
+	width: 196px;
+}
+.footer {
+	background:  #000;
+	height:  60px;
+	width: 100%;
+}
+p {
+	display:  block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+}
+.footer p {
+	color: #fff;
+	font-size: 14px;
+	height: 80px;
+	line-height: 80px;
+	margin: 0;
+}
+.nav ul li {
+	color:  #fff;
+	display: inline-block;
+	height: 80px;
+	line-height: 80px;
+	list-style: none;
+	padding: 0 10px;
+	transition:  background .5s;
+}
+.nav ul li: hover {
+	background: #117bff;
+	cursor:  pointer;
+	transition:  background .5s;
+} 
+li {
+	display: list-item;
+	text-align: -webkit-match-parent;
+}

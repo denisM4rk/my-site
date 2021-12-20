@@ -1,0 +1,96 @@
+html{
+position: absolute;
+width:1366px;
+height:684px;
+left:0px;
+top:0px;
+background:#181617;
+}
+.background{
+position: absolute;
+width: 1019px;
+height: 684px;
+left: 500px;
+top: 110px;
+background: url(images/cat.png);
+}
+.town{
+position: absolute;
+width: 70px;
+height:20px;
+top:190px;
+left: 200px;
+font-size:23px;
+line-height: 24px;
+text-align: center;
+color:#A07B50;
+}
+h1{
+position: absolute;
+width: 300px;
+height:100px;
+top:220px;
+left:200px;
+font-size:50px;
+line-height: 60px;
+text-align: left;
+color:#FFFFFF;
+}
+p{
+position: absolute;
+width: 300px;
+height:20px;
+top:360px;
+left:200px;
+font-size:20px;
+line-height: 24px;
+text-align: left;
+color:#A07B50;
+}
+.crown{
+position: absolute;
+width: 60px;
+height: 59px;
+left: 654px;
+top: 30px;
+text-align: center;
+color: white;
+}
+.crown p {
+position: absolute;
+text-align: center;
+width: 100px;
+height: 59px;
+left: -19px;
+top: 13px;
+color: #FFFFFF;
+font-size: 12px;
+}
+.left {
+position: absolute;
+top: 560px;
+left:50px;
+}
+.cat {
+position: absolute;
+width: 200px;
+height: 52px;
+left: 204px;
+top: 460px;
+border: 0.5px solid #A07B50;
+box-sizing: border-box;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 16px;
+color:#FFFFFF;
+text-align: center;
+}
+a {
+position: absolute;
+width: 200px;
+height: 20px;
+left: 0px;
+top: 15px;
+color:#FFFFFF;
+}
